@@ -1,2 +1,2 @@
 # fido
-This repository is a test for CSC099
+h e l l o
